@@ -7,8 +7,11 @@
 </div>
 <div align="left">
   <ul style="list-style: none">
-    <p>Estou segundo o roadmap de estudos abaixo:</p>
+    <p>Estou segundo o roadmap de estudos abaixo que está divido em aguardando, estudando e finalizado:</p>
+    <p>Finalizado</p>
+    <p>Estudando</p>
     <li><a href="https://www.udemy.com/course/git-e-github-para-iniciantes/" target="_blank">Git e Github para iniciantes</a></li>
+    <p>Aguardando</p>
     <li><a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank">PHP do Zero a Maestria + 4 Projetos incríveis</a></li>
     <li><a href="https://www.udemy.com/course/sql-do-basico-ao-avancado-com-mysql-e-projeto/" target="_blank">SQL do básico ao avançado (com MySQL e Projeto)</a></li>
     <li><a href="https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/" target="_blank">JavaScript do básico ao avançado (c/ Node.js e projetos)</a></li>
