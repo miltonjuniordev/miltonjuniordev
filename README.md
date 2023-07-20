@@ -8,9 +8,11 @@
 <div align="left">
   <div>
     <p>Estou segundo o roadmap de estudos abaixo que está divido em aguardando, estudando e finalizado:</p>
-    <p>Status - Finalizado</p><br>
+    <p>Status - Finalizado</p>
+    <br>
     <p>Status - Estudando</p>
     <a href="https://www.udemy.com/course/git-e-github-para-iniciantes/" target="_blank">Git e Github para iniciantes</a> <br>
+    <br>
     <p>Status - Aguardando</p>
     <a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank">PHP do Zero a Maestria + 4 Projetos incríveis</a>
     <a href="https://www.udemy.com/course/sql-do-basico-ao-avancado-com-mysql-e-projeto/" target="_blank">SQL do básico ao avançado (com MySQL e Projeto)</a>
