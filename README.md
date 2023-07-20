@@ -6,7 +6,7 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonjuniordev&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 <div align="left">
-  <ul>
+  <ul style="list-style: none">
     <p>Estou segundo o roadmap de estudos abaixo:</p>
     <li>1 - <a href="https://www.udemy.com/course/git-e-github-para-iniciantes/" target="_blank">Git e Github para iniciantes</a></li>
     <li>2 - <a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank">PHP do Zero a Maestria + 4 Projetos incríveis</a></li>
