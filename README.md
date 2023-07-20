@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltonjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonjuniordev&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
-<div>
+<div align="left">
   <ul>
     <p>Estou segundo o roadmap de estudos abaixo:</p>
     <ol><a href="https://www.udemy.com/course/git-e-github-para-iniciantes/" target="_blank">Git e Github para iniciantes</a></ol>
